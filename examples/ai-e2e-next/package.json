@@ -23,7 +23,7 @@
     "@ai-sdk/openai": "4.0.0-beta.28",
     "@ai-sdk/otel": "1.0.0-beta.27",
     "@ai-sdk/perplexity": "4.0.0-beta.21",
-    "@ai-sdk/provider-utils": "5.0.0-beta.17",
+    "@ai-sdk/provider-utils": "5.0.1",
     "@ai-sdk/react": "4.0.0-beta.81",
     "@ai-sdk/rsc": "3.0.0-beta.82",
     "@ai-sdk/valibot": "3.0.0-beta.17",
